@@ -16,12 +16,6 @@
 - Arduino & Alarmtechnik: gut
 - Systemdenken: gut bis sehr gut
 
-**Technik & Praxis**
-- Arduino (Steuerung, Logik, z.B. Relais)
-- Alarmtechnik & BMA-Konzepte
-- PC-Reparatur (Overheating beheben, Hardware-Wartung)
-- Audacity (Audio-Bearbeitung)
-
 ---
 
 ## 🛠️ Projekte
@@ -49,19 +43,13 @@ Backend: Node.js, MySQL
 - Hardware > Theorie
 - Musik beim Arbeiten = Pflicht
 - Kaffee = Systemrelevant ☕
-
 ---
-
-### 🔥 Interessen
+## 🔥 Interessen
 - Sirenen (Favorit: **HLS F71 von Hörmann, der Sound ist einfach nur "Butter"**)
-- Katastrophenschutz & Großtechnik
-- AKWs, Raffinerien
-- Kernfusion
+- AKWs, Raffinerien & Großtechnik
 - Tschernobyl & Technikgeschichte
 
 ---
 
-📫 **Kontakt**
-- GitHub Issues / Discussions
-- Discord (optional)
-- Mehr über mich: https://youtu.be/d1YBv2mWll0?si=QxqQHpqIdcIFPX9Y
+👀 **Geheim**
+- https://youtu.be/d1YBv2mWll0?si=QxqQHpqIdcIFPX9Y
