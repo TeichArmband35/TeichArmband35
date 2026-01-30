@@ -4,9 +4,6 @@
 💻 JavaScript Developer
 🚨 Sirenen-, Alarm- & Technik-Nerd  
 
-Ich baue **Software UND echte Technik** – von Web-Projekten bis zu
-Alarmanlagen mit Werkshorn, Arduino & (geplant) Home Assistant.
-
 ---
 
 ## ⚡ Skills & Tech
@@ -24,7 +21,6 @@ Alarmanlagen mit Werkshorn, Arduino & (geplant) Home Assistant.
 - Alarmtechnik & BMA-Konzepte
 - PC-Reparatur (Overheating beheben, Hardware-Wartung)
 - Audacity (Audio-Bearbeitung)
-- Englisch: Schulniveau (9. Klasse)
 
 ---
 
@@ -47,58 +43,6 @@ Backend: Node.js, MySQL
 
 ---
 
-### 🚔 EMA-Projekt *(laufend)*
-- EMA-Logik mit Home Assistant (HA) & Frigate
-- Tür- und Fensterkontaktmelder
-- Alarm-Signal: 1s an / 1s aus
-- Zigbee- oder Ethernet-Anbindung für einen Ausbau von Signalgeber(n)
-
-**Status:**
-- Logik Arduino ✔
-- Relais-Schaltung „Einbruch“ ✔
-- Gehäuse-Einbau 🛠️
-- HA & Frigate Integration 🔜
-- Sensoren & Erweiterung 📝
-
----
-
-### 🚒 BMA-Projekt *(laufend, mit EMA kombiniert)*
-- BMA-Logik mit Arduino & HA
-- Werkshorn als akustischer Signalgeber
-- Druckknopf-, Rauch- & CO-Melder
-- Alarm-Signal: 3s an / 3s aus
-- Priorität über EMA
-
-**Status:**
-- Logik Arduino ✔
-- Realistische Alarmabläufe ✔
-- Relais-Schaltung „Feueralarm“ ✔
-- Gehäuse-Installation 🛠️
-- HA Integration 🔜
-- Signalgeber-Erweiterung 📝
-
----
-
-## 💼 Ehrenamt & Ausbildung
-
-**🛟 Wasserwacht**
-- Co-Trainer
-- Badeaufsicht (Badesee)
-- Wasserwacht Bronze ✔
-- Wasserwacht Silber (in Ausbildung)
-- Erste-Hilfe-Grundausbildung
-
----
-
-## 🔥 Interessen
-- Sirenen (Favorit: **HLS F71 von Hörmann, der Sound ist einfach nur "Butter"**)
-- Katastrophenschutz & Großtechnik
-- AKWs, Raffinerien
-- Kernfusion
-- Tschernobyl & Technikgeschichte
-
----
-
 ## 👾 Persönlich
 - ADHS (nicht romantisiert - Ich hasse es)
 - Lerne am besten durch Praxis
@@ -108,7 +52,16 @@ Backend: Node.js, MySQL
 
 ---
 
+### 🔥 Interessen
+- Sirenen (Favorit: **HLS F71 von Hörmann, der Sound ist einfach nur "Butter"**)
+- Katastrophenschutz & Großtechnik
+- AKWs, Raffinerien
+- Kernfusion
+- Tschernobyl & Technikgeschichte
+
+---
+
 📫 **Kontakt**
 - GitHub Issues / Discussions
 - Discord (optional)
-- Mehr über mich: https://youtu.be/d1YBv2mWll0?si=6MPaoogSQJQZP1mS
+- Mehr über mich: https://youtu.be/d1YBv2mWll0?si=QxqQHpqIdcIFPX9Y
