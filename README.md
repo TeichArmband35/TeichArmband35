@@ -1,11 +1,10 @@
-# Servuuuuuus! 👋 Ich bin der Pille
+# Servuuuuuus 👋 
+Ich bin der Pille, der in Deutschland wohnt. Ich mache häufiger frontend stuff als backend. 
+Während des programmierens ist Kaffee natürlich ein muss, genau so wie Musik :D! 
+
 ## 👾 Persönlich
-- Kaffee = Systemrelevant
 - Schüler am Gymnasium  
-- JavaScript Developer 
 - Sirenen-, Alarm- & Technik-Nerd
-- ADHS (nicht romantisiert - Ich hasse es)
-- Musik beim Arbeiten = Pflicht
 
 ## 🔥 Interessen
 - Sirenen (Favorit: **HLS F71 von Hörmann, der Sound ist einfach nur "Butter"**)
@@ -16,7 +15,7 @@
 
 ## ⚡ Programmier-Sprachen
 
-- JavaScript: gut
+- (Frontend) JavaScript: gut
 - (Frontend) HTML / CSS: Grundkentnisse
 - (Backend) Node.js: fortgeschrittene Grundkenntnisse
 - Systemdenken: gut bis sehr gut
