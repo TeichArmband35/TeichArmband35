@@ -28,15 +28,6 @@ Backend: Node.js, MySQL
 
 ---
 
-### 🚨 EMA & BMA – Test-Setup
-- 12V DC Werkshorn
-- Not-Aus
-- 2 Signallampen
-- Arduino als „Gehirn“
-- Wired Aufbau (Gehäuse noch offen)
-
----
-
 ## 👾 Persönlich
 - ADHS (nicht romantisiert - Ich hasse es)
 - Lerne am besten durch Praxis
