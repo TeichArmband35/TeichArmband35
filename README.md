@@ -111,4 +111,4 @@ Backend: Node.js, MySQL
 📫 **Kontakt**
 - GitHub Issues / Discussions
 - Discord (optional)
-- Mehr über 
+- Mehr über mich: https://youtu.be/d1YBv2mWll0?si=6MPaoogSQJQZP1mS
