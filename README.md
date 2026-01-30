@@ -29,7 +29,3 @@ Während des programmierens ist Kaffee natürlich ein muss, genau so wie Musik :
 - Backend: Node.js, MySQL  
 ➡️ Web-Tool zum Verwalten von Schulaufgaben & Terminen
 
----
-
-👀 **Geheim**
-- https://youtu.be/d1YBv2mWll0?si=QxqQHpqIdcIFPX9Y
