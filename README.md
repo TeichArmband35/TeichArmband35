@@ -1,31 +1,18 @@
 # Servuuuuuus 👋 
-Ich bin der Pille, der in Deutschland wohnt. Ich mache häufiger frontend stuff als backend. 
-Während des programmierens ist Kaffee natürlich ein muss, genau so wie Musik :D! 
+Ich bin der Pille, ein typ aus Deutschland.
 
-## 👾 Persönlich
-- Schüler am Gymnasium  
-- Sirenen-, Alarm- & Technik-Nerd
+Ich arbeite gerade an ein paar Projekten (mein favorit ist bisher die EMA mit integrierter BMA :D), die häufig JS & Frontend based sind.
 
-## 🔥 Interessen
-- Sirenen (Favorit: **HLS F71 von Hörmann, der Sound ist einfach nur "Butter"**)
-- AKWs, Raffinerien & Großtechnik
-- Tschernobyl & Technikgeschichte
+Es ist aber auch möglich das ein Projekt mit elektrischen Schaltkreisen zu tun hat.
 
----
+Tools die ich sehr gerne für meine Projekte benutze sind unteranderem: VS-Code, Scheme it und Goodnotes auf meinem iPad.
 
-## ⚡ Programmier-Sprachen
+#### Fun Facts:
+- Die meisten Projekte die mache, fokusieren sich auf *Alarmtechnik*
+- Ich liebe Kaffee
+- Sirenen-Nerd
 
-- (Frontend) JavaScript: gut
-- (Frontend) HTML / CSS: Grundkentnisse
-- (Backend) Node.js: fortgeschrittene Grundkenntnisse
-- Systemdenken: gut bis sehr gut
-
----
-
-## 🛠️ Hauptprojekte
-
-### 📅 Schulaufgaben-Kalender *(laufend)*
-- Frontend: JavaScript, HTML, CSS  
-- Backend: Node.js, MySQL  
-➡️ Web-Tool zum Verwalten von Schulaufgaben & Terminen
-
+#### Hobbies:
+- Wasserwacht, Tennis
+- Programmieren
+- Alarmtechnik fotografieren / nachbauen
