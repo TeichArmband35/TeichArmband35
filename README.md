@@ -1,18 +1,18 @@
 # Servuuuuuus 👋 
-Ich bin der Pille, ein typ aus Deutschland.
+Im Pille, a guy from Germany.
 
-Ich arbeite gerade an ein paar Projekten (mein favorit ist bisher die EMA mit integrierter BMA :D), die häufig JS & Frontend based sind.
+Im currently working on a few projects, which are often (Frontend) JavaScript based.
 
-Es ist aber auch möglich das ein Projekt mit elektrischen Schaltkreisen zu tun hat.
+However, it's also possible that a project involves electrical circuits.
 
-Tools die ich sehr gerne für meine Projekte benutze sind unteranderem: VS-Code, Scheme it und Goodnotes auf meinem iPad.
+Tools I really enjoy using for my projects include: VS Code, Scheme it, and Goodnotes on my iPad.
 
 #### Fun Facts:
-- Die meisten Projekte die mache, fokusieren sich auf *Alarmtechnik*
-- Ich liebe Kaffee
-- Sirenen-Nerd
+- Most of the projects I do focus on *alarm technology*
+- I love coffee
+- Im a siren nerd
 
 #### Hobbies:
-- Wasserwacht, Tennis
-- Programmieren
-- Alarmtechnik fotografieren / nachbauen
+- Swimming, tennis.
+- Programming.
+- Photographing/recreating alarm technology.
