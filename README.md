@@ -1,18 +1,18 @@
 # Servuuuuuus 👋 
 Im Pille, a guy from Germany.
 
-Im currently working on a few projects, which are often (Frontend) JavaScript based.
+Im currently working on a few projects, which are often (backend) JavaScript based.
 
 However, it's also possible that a project involves electrical circuits.
 
 Tools I really enjoy using for my projects include: VS Code, Scheme it, and Goodnotes on my iPad.
 
 #### Fun Facts:
-- Most of the projects I do focus on *alarm technology*
+- Sabaton fan
 - I love coffee
-- Im a siren nerd
+- I *like* sirens
 
 #### Hobbies:
-- Swimming, tennis.
-- Programming.
-- Photographing/recreating alarm technology.
+- Swimming, tennis
+- Programming
+
