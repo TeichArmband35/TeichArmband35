@@ -9,8 +9,3 @@ Tools I really enjoy using for my projects include: WebStorm, Scheme it, and Goo
 - Sabaton fan
 - I love coffee
 - I *like* sirens
-
-#### Hobbies:
-- Swimming, tennis
-- Programming
-
